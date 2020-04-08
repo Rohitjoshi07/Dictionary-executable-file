@@ -1,0 +1,1 @@
+Paste both extension file and the json file in a folder.
